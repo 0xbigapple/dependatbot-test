@@ -39,6 +39,8 @@ dependencies {
     implementation "com.alibaba.fastjson2:fastjson2:2.0.55"
 
     implementation "dnsjava:dnsjava:3.5.0" //high
+
+    implementation "org.apache.ozone:ozone:1.4.0" //high
 }
 
 protobuf {
