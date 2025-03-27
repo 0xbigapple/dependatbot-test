@@ -46,6 +46,8 @@ dependencies {
 
     implementation "io.smallrye:smallrye-fault-tolerance-core:6.3.0" //high
 
+     implementation "net.snowflake:snowflake-jdbc:3.2.3" //high
+
 
 }
 
