@@ -42,7 +42,7 @@ dependencies {
 
     implementation "org.apache.ozone:ozone:1.4.0" //high
 
-    implementation "io.quarkus.http:quarkus-http-core:5.3.3" //high
+    implementation "io.quarkus.http:quarkus-http-core:5.3.4" //high
 
     implementation "io.smallrye:smallrye-fault-tolerance-core:6.3.0" //high
 
